@@ -11,3 +11,4 @@
 | 3 | MAC-адресация, коммутатор, дуплекс | [homework-mac](./homework-mac/) |
 | 4 | Урок 4. IPv4 и адресация | [lesson-04-ipv4-addressing](./lesson-04-ipv4-addressing/) |
 | 5 | Сеть с 2 коммутаторами и хабом | [lesson-hub-switch](./lesson-hub-switch/) |
+| 6 | Блокировка Cisco Packet Tracer в брандмауэре | [homework-firewall](./homework-firewall/) |
